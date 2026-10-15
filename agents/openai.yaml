@@ -1,0 +1,4 @@
+interface:
+  display_name: "鹿途AI·拾光画境"
+  short_description: "把照片转成值得收藏的画，支持主体保真、十二款材质风格与系列统一"
+  default_prompt: "使用 $lutuai-museframe，把我提供的照片转成海盐手绘，保留主体特征与原图构图。"

@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.1",
+  "assets": [
+    {
+      "file": "demo/source-coastal-reading.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2789880,
+      "sha256": "da05c088f4b023e7ba081a0b2c6fbed204489e0b3c6d89cb8a297eb6aff67981"
+    },
+    {
+      "file": "demo/coast-gouache.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3086764,
+      "sha256": "d10f350d59ce51d2d186f45614e199d5b2142b1df0c51f9fd3f94414b05b8bc3"
+    },
+    {
+      "file": "demo/paper-theatre.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3136144,
+      "sha256": "6684961165a8b1eea749caeb258d916d21ed2c2e51f53f042c088aff7fdfbcb8"
+    },
+    {
+      "file": "demo/risograph-weekend.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3871219,
+      "sha256": "4fcc6b28a4b26bdf71dac6ffa0474571114eedddb942d11f6ac425a0bc9c202e"
+    },
+    {
+      "file": "demo/ink-tide.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3318542,
+      "sha256": "e04611d75a151c17898a05f5a761a3d35eaea7ab2164e6bb567688ccb8164625"
+    },
+    {
+      "file": "demo/woven-memory.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 4294815,
+      "sha256": "f03eaa5258260fe9f8504a84b25f8bf00f5fba866fc99fbbf359dcda4c0e8222"
+    },
+    {
+      "file": "demo/graphite-pause.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3816224,
+      "sha256": "91d1466b43190040cbb10317f5650ce8196bb945cc99d0fd02e9e8f9216956d7"
+    },
+    {
+      "file": "demo/window-oil.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3337478,
+      "sha256": "0c6fe8dcb326e67ca24effc825dbc272035aaa9a5de9abe2c3b86cd336b05a8d"
+    },
+    {
+      "file": "demo/clay-day.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2689393,
+      "sha256": "66424fe71c118e2d18b830c80bf52617b0210499d44cb3845055cd1806aa8e7d"
+    },
+    {
+      "file": "demo/amber-film.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3020861,
+      "sha256": "4b26834bb2ed902eb5e08334afc6e3a4e400783b0596b3c669a3beca6a9df1e3"
+    },
+    {
+      "file": "demo/quiet-contour.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3403173,
+      "sha256": "22cf5589b0c5b197d2a7eb0f170c439f044b7fefadfc5671a20cbf50f1a0bce2"
+    },
+    {
+      "file": "demo/field-collage.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3451489,
+      "sha256": "9c598bac6f1085877361a893f946fe6c189b9ea3d0123bced0411018171f99bf"
+    },
+    {
+      "file": "demo/night-pastel.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3515841,
+      "sha256": "f83b273830d0e276b098176a773a9e8f475a9715d325008710364807f7799e96"
+    }
+  ],
+  "pairs": [
+    {
+      "style_id": "coast-gouache",
+      "name_zh": "海盐手绘",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/coast-gouache.png"
+    },
+    {
+      "style_id": "paper-theatre",
+      "name_zh": "纸雕剧场",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/paper-theatre.png"
+    },
+    {
+      "style_id": "risograph-weekend",
+      "name_zh": "周末孔版",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/risograph-weekend.png"
+    },
+    {
+      "style_id": "ink-tide",
+      "name_zh": "墨彩潮汐",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/ink-tide.png"
+    },
+    {
+      "style_id": "woven-memory",
+      "name_zh": "织光记忆",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/woven-memory.png"
+    },
+    {
+      "style_id": "graphite-pause",
+      "name_zh": "铅笔停格",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/graphite-pause.png"
+    },
+    {
+      "style_id": "window-oil",
+      "name_zh": "窗边油彩",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/window-oil.png"
+    },
+    {
+      "style_id": "clay-day",
+      "name_zh": "陶土晴日",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/clay-day.png"
+    },
+    {
+      "style_id": "amber-film",
+      "name_zh": "琥珀胶片",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/amber-film.png"
+    },
+    {
+      "style_id": "quiet-contour",
+      "name_zh": "呼吸线稿",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/quiet-contour.png"
+    },
+    {
+      "style_id": "field-collage",
+      "name_zh": "野集拼贴",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/field-collage.png"
+    },
+    {
+      "style_id": "night-pastel",
+      "name_zh": "夜色粉彩",
+      "source": "demo/source-coastal-reading.png",
+      "result": "demo/night-pastel.png"
+    }
+  ]
+}
