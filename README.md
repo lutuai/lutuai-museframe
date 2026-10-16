@@ -6,7 +6,7 @@
 
 **把喜欢的瞬间，画成值得收藏的模样。**
 
-照片艺术转绘 · 十二款材质配方 · 十二组同源对照 · 系列统一
+照片艺术转绘 · 十二款材质配方 · 十二组风景对照 · 系列统一
 
 [效果预览](#效果预览) · [快速开始](#快速开始) · [风格库](#风格库) · [批量准备](#批量准备) · [许可](#许可与致谢)
 
@@ -22,105 +22,131 @@
 
 ## 效果预览
 
-同一个海边下午，十二种材质表达。每款风格均将同一张合成原图与处理结果并排展示，便于比较笔触、色彩与材质的变化。
+十二张不同的风景照片，十二种材质表达。按题材挑选适合的配方：海岸用水粉，雪镇用纸雕，沙丘用孔版，夜景用粉彩。每组左侧为采集的摄影原图，右侧为以该原图执行技能后生成的结果。
 
 ### 01 · 海盐手绘 · Coast Gouache
 
-哑光水粉、平刷色块与局部干刷，让海边日光呈现柔和的手绘质感。
+**礁石海岸** · 礁石、海面与长云转为哑光水粉，保留海岸的斜向延伸。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![海盐手绘原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![海盐手绘：哑光颜料、可见笔触与海岸色彩](assets/demo/coast-gouache.png) |
+| ![礁石海岸摄影原图](assets/sources/coast-gouache.jpg) | ![礁石海岸的海盐手绘转绘结果](assets/demo/coast-gouache.png) |
+
+原图：[IIP Photo Archive](https://commons.wikimedia.org/wiki/File:Coast_and_beach_landscape_in_U.S.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 02 · 纸雕剧场 · Paper Theatre
 
-层叠纸片、切口与细微投影，把场景组织成有纵深的纸艺画面。
+**雪山小镇** · 雪山、小镇和倒影分成纸层，让辽阔的冬日有了厚度。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![纸雕剧场原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![纸雕剧场：层叠纸片、纸面纤维与接触阴影](assets/demo/paper-theatre.png) |
+| ![雪山小镇摄影原图](assets/sources/paper-theatre.jpg) | ![雪山小镇的纸雕剧场转绘结果](assets/demo/paper-theatre.png) |
+
+原图：[Sveinn Birkir Björnsson sveinnbirkir](https://commons.wikimedia.org/wiki/File:The_reflection_of_a_snowy_mountain_village_(Unsplash).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 03 · 周末孔版 · Risograph Weekend
 
-有限色版、吸墨纸颗粒与轻微套印偏移，带来独立印刷品的质感。
+**暮色沙丘** · 沙丘的曲线变成有限色版，暖红、蓝绿与纸色形成印刷层次。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![周末孔版原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![周末孔版：有限色版、颗粒纹理与套印效果](assets/demo/risograph-weekend.png) |
+| ![暮色沙丘摄影原图](assets/sources/risograph-weekend.jpg) | ![暮色沙丘的周末孔版转绘结果](assets/demo/risograph-weekend.png) |
+
+原图：[Joe Mania joemania](https://commons.wikimedia.org/wiki/File:Desert_Dunes_(Unsplash).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 04 · 墨彩潮汐 · Ink Tide
 
-墨色浓淡、吸水纸纹与受控洇化，让轮廓和色彩在纸面自然交融。
+**雾湖松林** · 松林从湖雾中露出，墨色浓淡与留白顺着原有水汽展开。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![墨彩潮汐原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![墨彩潮汐：墨色层次、纸面纹理与受控洇化](assets/demo/ink-tide.png) |
+| ![雾湖松林摄影原图](assets/sources/ink-tide.jpg) | ![雾湖松林的墨彩潮汐转绘结果](assets/demo/ink-tide.png) |
+
+原图：[Dustin Scarpitti dusty_blanco](https://commons.wikimedia.org/wiki/File:Ominous_mist_(Unsplash).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 05 · 织光记忆 · Woven Memory
 
-随形针脚、细线束与织物毛羽，将光影转成温暖的纺织纹理。
+**山麓草甸** · 草甸、木屋与远山化作细线针脚，留下山麓傍晚的柔软。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![织光记忆原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![织光记忆：随形针脚、细线束与织物毛羽](assets/demo/woven-memory.png) |
+| ![山麓草甸摄影原图](assets/sources/woven-memory.jpg) | ![山麓草甸的织光记忆转绘结果](assets/demo/woven-memory.png) |
+
+原图：[Thisik](https://commons.wikimedia.org/wiki/File:Alpine_meadows_and_mountains_01.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 06 · 铅笔停格 · Graphite Pause
 
-石墨排线、擦提亮部与纸面齿纹，以黑白明暗记录场景的细节。
+**雪地石桥** · 石桥拱洞与冬树枝杈用石墨排线描绘，雪地提供自然留白。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![铅笔停格原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![铅笔停格：石墨排线、擦提亮部与纸面齿纹](assets/demo/graphite-pause.png) |
+| ![雪地石桥摄影原图](assets/sources/graphite-pause.jpg) | ![雪地石桥的铅笔停格转绘结果](assets/demo/graphite-pause.png) |
+
+原图：[Cbaile19](https://commons.wikimedia.org/wiki/File:Casselman_River_Bridge,_2014-03-18,_02.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 07 · 窗边油彩 · Window Oil
 
-厚薄相间的颜料、短笔触与画布纹理，突出色面和光影的层次。
+**秋林溪流** · 秋叶与苔石由厚薄笔触铺开，冷色溪流穿过暖色林地。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![窗边油彩原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![窗边油彩：厚薄颜料、短笔触与画布纹理](assets/demo/window-oil.png) |
+| ![秋林溪流摄影原图](assets/sources/window-oil.jpg) | ![秋林溪流的窗边油彩转绘结果](assets/demo/window-oil.png) |
+
+原图：[Imagii](https://commons.wikimedia.org/wiki/File:Autumn_River_(128869533).jpeg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 08 · 陶土晴日 · Clay Day
 
-无釉色泥、轻微压痕与浅刻线，将熟悉的物件塑成手作陶土场景。
+**布拉诺蓝屋** · 布拉诺的蓝色房屋成为无釉色泥，门窗和街巷保留原来的关系。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![陶土晴日原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![陶土晴日：无釉色泥、手作压痕与浅刻线](assets/demo/clay-day.png) |
+| ![布拉诺蓝屋摄影原图](assets/sources/clay-day.jpg) | ![布拉诺蓝屋的陶土晴日转绘结果](assets/demo/clay-day.png) |
+
+原图：[Pietro De Grandi peter_mc_greats](https://commons.wikimedia.org/wiki/File:Burano_Island,_Venice,_Italy_(Unsplash).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 09 · 琥珀胶片 · Amber Film
 
-细颗粒、柔和高光与轻微光晕，为日常光线增添温润的胶片气息。
+**旷野弯道** · 旷野中的弯道与大幅天空保留摄影质感，加入暖色胶片颗粒。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![琥珀胶片原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![琥珀胶片：细颗粒、柔和高光与轻微光晕](assets/demo/amber-film.png) |
+| ![旷野弯道摄影原图](assets/sources/amber-film.jpg) | ![旷野弯道的琥珀胶片转绘结果](assets/demo/amber-film.png) |
+
+原图：[Ján Jakub Naništa janjakubnanista](https://commons.wikimedia.org/wiki/File:Winding_road_(Unsplash).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 10 · 呼吸线稿 · Quiet Contour
 
-变化的线宽、断续轮廓与克制留白，留下场景中最有辨识度的结构。
+**海岬灯塔** · 灯塔的玻璃、窗框与太阳能板化为轻盈线条，少量色彩点到即止。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![呼吸线稿原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![呼吸线稿：变化线宽、断续轮廓与克制留白](assets/demo/quiet-contour.png) |
+| ![海岬灯塔摄影原图](assets/sources/quiet-contour.jpg) | ![海岬灯塔的呼吸线稿转绘结果](assets/demo/quiet-contour.png) |
+
+原图：[Bernard Spragg. NZ from Christchurch, New Zealand](https://commons.wikimedia.org/wiki/File:Cape_Reinga_Lighthouse._NZ_(20193721576).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 11 · 野集拼贴 · Field Collage
 
-撕边、剪切边与薄纸叠贴，以不同纸材拼出色彩和空间关系。
+**金色梯田** · 金色梯田、远山与收割者用薄纸拼接，顺着田埂形成层次。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![野集拼贴原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![野集拼贴：撕边、剪切边与薄纸叠贴](assets/demo/field-collage.png) |
+| ![金色梯田摄影原图](assets/sources/field-collage.jpg) | ![金色梯田的野集拼贴转绘结果](assets/demo/field-collage.png) |
+
+原图：[Malock2589](https://commons.wikimedia.org/wiki/File:Golden-terraced-fields-in-Mu-Cang-Chai.jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
 
 ### 12 · 夜色粉彩 · Night Pastel
 
-粉彩颗粒、短色点与侧锋铺色，保留原图时段并柔化色彩交界。
+**星夜雪峰** · 星夜、雪峰与低处极光转成粉彩颗粒，保持原本的夜间氛围。
 
-| 合成输入图 | 风格处理后 |
+| 风景原图 | 技能转绘后 · AI 编辑 |
 | :---: | :---: |
-| ![夜色粉彩原图：海边露台、咖啡桌和橘猫](assets/demo/source-coastal-reading.png) | ![夜色粉彩：粉彩颗粒、短色点与侧锋铺色](assets/demo/night-pastel.png) |
+| ![星夜雪峰摄影原图](assets/sources/night-pastel.jpg) | ![星夜雪峰的夜色粉彩转绘结果](assets/demo/night-pastel.png) |
 
-以上十三张图片均为本项目重新生成的 AI 演示素材，场景为虚构。十二张转绘分别以同一张合成输入图为参考生成，未使用上游示例图片。十二款均提供实际转绘示例；检查记录见[素材说明](assets/ASSET_NOTES.md)。
+原图：[I'm Priscilla artographybyp](https://commons.wikimedia.org/wiki/File:Northern_lights_over_a_lake_(Unsplash).jpg) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)。
+
+原图来自 Wikimedia Commons，各文件页标明 CC0 1.0；原图保持下载内容，不作 AI 合成或风格处理。十二张成品分别引用其对应原图生成，没有使用上游示例图片。照片作者、下载链接与采集日期见[素材来源清单](assets/SOURCES.md)，生成提示词与检查记录见[素材说明](assets/ASSET_NOTES.md)。
+
+这些案例用于展示不同题材与材质的搭配；因为原图各不相同，不应把它们当作同一场景的风格控制实验。模型可能简化细节或产生轻微构图偏差。
 
 仓库附带 [交互展示页源码](index.html)，支持风格切换、拖动对照和指令复制。下载完整目录后，使用浏览器打开 `index.html` 即可体验；在 GitHub 仓库中点击该文件，看到的是源码。
 
@@ -249,13 +275,13 @@ python scripts/prepare_job.py --list-styles
 **使用仓库自带图片，准备两种风格的任务：**
 
 ```bash
-python scripts/prepare_job.py --input "assets/demo/source-coastal-reading.png" --style coast-gouache --style paper-theatre --output "jobs/demo"
+python scripts/prepare_job.py --input "assets/sources/coast-gouache.jpg" --style coast-gouache --style paper-theatre --output "jobs/demo"
 ```
 
 **准备海报重排任务：**
 
 ```bash
-python scripts/prepare_job.py --input "assets/demo/source-coastal-reading.png" --style paper-theatre --layout poster --ratio 3:4 --output "jobs/poster"
+python scripts/prepare_job.py --input "assets/sources/coast-gouache.jpg" --style paper-theatre --layout poster --ratio 3:4 --output "jobs/poster"
 ```
 
 将 `--input` 后的路径替换成自己的照片即可。多张照片重复使用 `--input`，多个风格重复使用 `--style`，工具会创建“源图 × 风格”的组合任务。
@@ -296,7 +322,10 @@ lutuai-museframe/
 ├── scripts/prepare_job.py      # 批量任务准备工具
 ├── tests/test_prepare_job.py   # 标准库测试
 ├── assets/
-│   ├── demo/                   # 合成输入图与十二张转绘图
+│   ├── sources/                # 十二张采集的风景原图
+│   ├── demo/                   # 十二张对应的 AI 转绘结果
+│   ├── SOURCES.md              # 作者、原始页面与 CC0 许可
+│   ├── sources.json            # 原图来源与主体观察记录
 │   ├── generation-prompts.json # 演示图片的生成提示词
 │   ├── manifest.json           # 图片尺寸与文件摘要
 │   └── ASSET_NOTES.md          # 素材说明及检查记录
@@ -313,7 +342,7 @@ lutuai-museframe/
 
 **可以保证人物完全不变吗？**
 
-不能保证。技能通过主体记录、原图输入和对照验收减少偏差，结果仍取决于模型能力。多人合影、人脸、手部、精确文字和建筑细节需要重点检查。当前演示不含人像，未验证真实人物的身份保持效果。
+不能保证。技能通过主体记录、原图输入和对照验收减少偏差，结果仍取决于模型能力。多人合影、人脸、手部、精确文字和建筑细节需要重点检查。当前案例以风景为主，梯田照片含远景劳动者；未验证近景人脸的身份保持效果。
 
 **照片会自动公开吗？**
 
@@ -341,4 +370,4 @@ python -m unittest discover -s tests -v
 
 本版本代码与文档采用 [MIT License](LICENSE)。照片转绘工作流参考并改造自 [iotate/photo-story](https://github.com/iotate/photo-story)，感谢上游项目的开放分享。上游许可保留于 [LICENSE.upstream](LICENSE.upstream)，来源与改造范围见 [NOTICE.md](NOTICE.md)。
 
-本版本重新编写了技能入口、风格配方、验收流程、批量准备工具与展示页面，并重新生成演示素材。AI 图像的使用说明见 [素材说明](assets/ASSET_NOTES.md)；分发本项目时，请一并保留许可及相关说明。
+本版本重新编写了技能入口、风格配方、验收流程、批量准备工具与展示页面，并收集不同风景原图、重新生成对应转绘。摄影原图的 CC0 许可与 AI 编辑图的使用说明见 [素材说明](assets/ASSET_NOTES.md)；分发本项目时，请一并保留许可及相关说明。

@@ -1,170 +1,284 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "2.0",
+  "updated": "2026-10-16",
   "assets": [
     {
-      "file": "demo/source-coastal-reading.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 2789880,
-      "sha256": "da05c088f4b023e7ba081a0b2c6fbed204489e0b3c6d89cb8a297eb6aff67981"
+      "file": "assets/sources/coast-gouache.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 846416,
+      "sha256": "003c3d6fabb82d26d905fa5a71dcc931f3f4882ebf1c81189036646b8743b7ab"
     },
     {
-      "file": "demo/coast-gouache.png",
+      "file": "assets/demo/coast-gouache.png",
+      "role": "ai_style_edit",
       "width": 1536,
       "height": 1024,
-      "bytes": 3086764,
-      "sha256": "d10f350d59ce51d2d186f45614e199d5b2142b1df0c51f9fd3f94414b05b8bc3"
+      "bytes": 3400305,
+      "sha256": "de836686d3da8575144aff657800efc5777466b9f060362cbd3bd05e13b1ff46"
     },
     {
-      "file": "demo/paper-theatre.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 3136144,
-      "sha256": "6684961165a8b1eea749caeb258d916d21ed2c2e51f53f042c088aff7fdfbcb8"
+      "file": "assets/sources/paper-theatre.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 639920,
+      "sha256": "0d4f7309294abc2a8c1bb100bc37ab23a81c9fc35174f23b9fb10ed6878667e8"
     },
     {
-      "file": "demo/risograph-weekend.png",
+      "file": "assets/demo/paper-theatre.png",
+      "role": "ai_style_edit",
       "width": 1536,
       "height": 1024,
-      "bytes": 3871219,
-      "sha256": "4fcc6b28a4b26bdf71dac6ffa0474571114eedddb942d11f6ac425a0bc9c202e"
+      "bytes": 3284079,
+      "sha256": "f32c5ae594a6912caef00e11bb4e9be9a878422c4bdce99fdfd2f9f5220dd93b"
     },
     {
-      "file": "demo/ink-tide.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 3318542,
-      "sha256": "e04611d75a151c17898a05f5a761a3d35eaea7ab2164e6bb567688ccb8164625"
+      "file": "assets/sources/risograph-weekend.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 120222,
+      "sha256": "f279c1f9ed1db3e1e0c3062f7985f45ad5d8ccadd6f944598274ff806ece5719"
     },
     {
-      "file": "demo/woven-memory.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 4294815,
-      "sha256": "f03eaa5258260fe9f8504a84b25f8bf00f5fba866fc99fbbf359dcda4c0e8222"
+      "file": "assets/demo/risograph-weekend.png",
+      "role": "ai_style_edit",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3756688,
+      "sha256": "ec92fdc87379e7f091059e0371cf28a914206db416e8c75d926fe354f148e253"
     },
     {
-      "file": "demo/graphite-pause.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 3816224,
-      "sha256": "91d1466b43190040cbb10317f5650ce8196bb945cc99d0fd02e9e8f9216956d7"
+      "file": "assets/sources/ink-tide.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 451721,
+      "sha256": "2645805a6f0f338b76b67a01d8b5c63df1e707d0744a4ff36de6946ee12731d9"
     },
     {
-      "file": "demo/window-oil.png",
+      "file": "assets/demo/ink-tide.png",
+      "role": "ai_style_edit",
       "width": 1536,
       "height": 1024,
-      "bytes": 3337478,
-      "sha256": "0c6fe8dcb326e67ca24effc825dbc272035aaa9a5de9abe2c3b86cd336b05a8d"
+      "bytes": 3450148,
+      "sha256": "3c9a1f40cfb2da2301e70bab90308e7267938171e0da8dc1a578d767d42a042e"
     },
     {
-      "file": "demo/clay-day.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 2689393,
-      "sha256": "66424fe71c118e2d18b830c80bf52617b0210499d44cb3845055cd1806aa8e7d"
+      "file": "assets/sources/woven-memory.jpg",
+      "role": "collected_source",
+      "width": 4032,
+      "height": 3024,
+      "bytes": 1726204,
+      "sha256": "feafd5e7434630b44ce9c26f8629b444ceb929a6c84b5ab4c74925ec9ecbd83b"
     },
     {
-      "file": "demo/amber-film.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 3020861,
-      "sha256": "4b26834bb2ed902eb5e08334afc6e3a4e400783b0596b3c669a3beca6a9df1e3"
+      "file": "assets/demo/woven-memory.png",
+      "role": "ai_style_edit",
+      "width": 1448,
+      "height": 1086,
+      "bytes": 4014589,
+      "sha256": "ce7585600cb577c879c81fc56e5b1279c82fb3f5d1fc56142cd4f70ab2d8c3cd"
     },
     {
-      "file": "demo/quiet-contour.png",
-      "width": 1536,
-      "height": 1024,
-      "bytes": 3403173,
-      "sha256": "22cf5589b0c5b197d2a7eb0f170c439f044b7fefadfc5671a20cbf50f1a0bce2"
+      "file": "assets/sources/graphite-pause.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1280,
+      "bytes": 593268,
+      "sha256": "97b40ecf4f8d061c5924d4dfed2f5f37a73a0af85910bbd6e8f8a0ee0fa1333b"
     },
     {
-      "file": "demo/field-collage.png",
+      "file": "assets/demo/graphite-pause.png",
+      "role": "ai_style_edit",
       "width": 1536,
       "height": 1024,
-      "bytes": 3451489,
-      "sha256": "9c598bac6f1085877361a893f946fe6c189b9ea3d0123bced0411018171f99bf"
+      "bytes": 3697618,
+      "sha256": "81f99be486229542c9e770d29c5ff0da241832a8a819f53b3fefff0c2af23b79"
     },
     {
-      "file": "demo/night-pastel.png",
+      "file": "assets/sources/window-oil.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1055,
+      "bytes": 838677,
+      "sha256": "a6915fdb740cbf1d1c67958a772cc0786e7a6220e11be26a80cc1702650ae2bd"
+    },
+    {
+      "file": "assets/demo/window-oil.png",
+      "role": "ai_style_edit",
+      "width": 1692,
+      "height": 930,
+      "bytes": 3668689,
+      "sha256": "104e39f21a605bf927817aa50b538b23dbc28429c1987b071423cb3dfc4a5828"
+    },
+    {
+      "file": "assets/sources/clay-day.jpg",
+      "role": "collected_source",
+      "width": 4750,
+      "height": 3167,
+      "bytes": 14369041,
+      "sha256": "7b0f30943dec5471e771ead46cd1defc5e75dc57cfd0f37c600b9142d64ff093"
+    },
+    {
+      "file": "assets/demo/clay-day.png",
+      "role": "ai_style_edit",
       "width": 1536,
       "height": 1024,
-      "bytes": 3515841,
-      "sha256": "f83b273830d0e276b098176a773a9e8f475a9715d325008710364807f7799e96"
+      "bytes": 3035097,
+      "sha256": "fb64449c7611d340513253ad7653280f2e75d66fb732a34ee2892d6db76a460f"
+    },
+    {
+      "file": "assets/sources/amber-film.jpg",
+      "role": "collected_source",
+      "width": 3072,
+      "height": 2048,
+      "bytes": 3533050,
+      "sha256": "f1122fb2f4f0f4cd73b3a1a64cd51c923e3b014f7842253d776c4a6774285fa8"
+    },
+    {
+      "file": "assets/demo/amber-film.png",
+      "role": "ai_style_edit",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2692526,
+      "sha256": "1971198535df8a8116c53dd6209dd54057ebfcc20f55c548c5c8ecf33336a82e"
+    },
+    {
+      "file": "assets/sources/quiet-contour.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1383,
+      "bytes": 533247,
+      "sha256": "22c7537c2e298af19bd1b1b49db4c7f1fef9210f669459aa8cd4605d2c436ae7"
+    },
+    {
+      "file": "assets/demo/quiet-contour.png",
+      "role": "ai_style_edit",
+      "width": 1478,
+      "height": 1064,
+      "bytes": 2955356,
+      "sha256": "0fd9526db43d71859e266f103bd17e43b1277646c405a3304be643fc89215c25"
+    },
+    {
+      "file": "assets/sources/field-collage.jpg",
+      "role": "collected_source",
+      "width": 800,
+      "height": 450,
+      "bytes": 255658,
+      "sha256": "966cd3cdc70b423c9218c07f371423c5b651610fe78e4fdca9ef6fae3d1e9172"
+    },
+    {
+      "file": "assets/demo/field-collage.png",
+      "role": "ai_style_edit",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3588920,
+      "sha256": "5da389b6ac2cb96e0cd2e22e4fd2e873d3444a1e0d77614e1556cc3736e3262d"
+    },
+    {
+      "file": "assets/sources/night-pastel.jpg",
+      "role": "collected_source",
+      "width": 1920,
+      "height": 1275,
+      "bytes": 562588,
+      "sha256": "8f4b9381bc5938917b6840451d16e6898e7ffb573716af077f5d8067bd0e6d81"
+    },
+    {
+      "file": "assets/demo/night-pastel.png",
+      "role": "ai_style_edit",
+      "width": 1539,
+      "height": 1022,
+      "bytes": 3530083,
+      "sha256": "d5a83c23b4c9d4458b248ba7eb20eedddbe272358896dc9591cb97cbf3b3e5c0"
     }
   ],
   "pairs": [
     {
       "style_id": "coast-gouache",
       "name_zh": "海盐手绘",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/coast-gouache.png"
+      "scene_zh": "礁石海岸",
+      "source": "assets/sources/coast-gouache.jpg",
+      "result": "assets/demo/coast-gouache.png"
     },
     {
       "style_id": "paper-theatre",
       "name_zh": "纸雕剧场",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/paper-theatre.png"
+      "scene_zh": "雪山小镇",
+      "source": "assets/sources/paper-theatre.jpg",
+      "result": "assets/demo/paper-theatre.png"
     },
     {
       "style_id": "risograph-weekend",
       "name_zh": "周末孔版",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/risograph-weekend.png"
+      "scene_zh": "暮色沙丘",
+      "source": "assets/sources/risograph-weekend.jpg",
+      "result": "assets/demo/risograph-weekend.png"
     },
     {
       "style_id": "ink-tide",
       "name_zh": "墨彩潮汐",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/ink-tide.png"
+      "scene_zh": "雾湖松林",
+      "source": "assets/sources/ink-tide.jpg",
+      "result": "assets/demo/ink-tide.png"
     },
     {
       "style_id": "woven-memory",
       "name_zh": "织光记忆",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/woven-memory.png"
+      "scene_zh": "山麓草甸",
+      "source": "assets/sources/woven-memory.jpg",
+      "result": "assets/demo/woven-memory.png"
     },
     {
       "style_id": "graphite-pause",
       "name_zh": "铅笔停格",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/graphite-pause.png"
+      "scene_zh": "雪地石桥",
+      "source": "assets/sources/graphite-pause.jpg",
+      "result": "assets/demo/graphite-pause.png"
     },
     {
       "style_id": "window-oil",
       "name_zh": "窗边油彩",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/window-oil.png"
+      "scene_zh": "秋林溪流",
+      "source": "assets/sources/window-oil.jpg",
+      "result": "assets/demo/window-oil.png"
     },
     {
       "style_id": "clay-day",
       "name_zh": "陶土晴日",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/clay-day.png"
+      "scene_zh": "布拉诺蓝屋",
+      "source": "assets/sources/clay-day.jpg",
+      "result": "assets/demo/clay-day.png"
     },
     {
       "style_id": "amber-film",
       "name_zh": "琥珀胶片",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/amber-film.png"
+      "scene_zh": "旷野弯道",
+      "source": "assets/sources/amber-film.jpg",
+      "result": "assets/demo/amber-film.png"
     },
     {
       "style_id": "quiet-contour",
       "name_zh": "呼吸线稿",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/quiet-contour.png"
+      "scene_zh": "海岬灯塔",
+      "source": "assets/sources/quiet-contour.jpg",
+      "result": "assets/demo/quiet-contour.png"
     },
     {
       "style_id": "field-collage",
       "name_zh": "野集拼贴",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/field-collage.png"
+      "scene_zh": "金色梯田",
+      "source": "assets/sources/field-collage.jpg",
+      "result": "assets/demo/field-collage.png"
     },
     {
       "style_id": "night-pastel",
       "name_zh": "夜色粉彩",
-      "source": "demo/source-coastal-reading.png",
-      "result": "demo/night-pastel.png"
+      "scene_zh": "星夜雪峰",
+      "source": "assets/sources/night-pastel.jpg",
+      "result": "assets/demo/night-pastel.png"
     }
   ]
 }

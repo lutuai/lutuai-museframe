@@ -90,4 +90,4 @@ python scripts/prepare_job.py --input /path/to/photo.jpg --style coast-gouache -
 
 交付最终图片、所用风格、简短验收结论和必要限制。多图附清晰文件映射；需要复用时保存提示词与实际执行记录，区分待执行计划和已完成结果。不要默认生成压缩包、上传私有照片或对外发布。
 
-本包的 `assets/demo/` 仅用于示例，所有演示均为 AI 合成素材。技能代码与许可信息见 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。
+本包的 `assets/sources/` 为采集的 CC0 风景摄影，`assets/demo/` 为逐张引用原图生成的 AI 转绘示例。每张原图的作者与许可见 [素材来源](assets/SOURCES.md)。技能代码与许可信息见 [LICENSE](LICENSE) 和 [NOTICE.md](NOTICE.md)。

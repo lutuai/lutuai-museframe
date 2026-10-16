@@ -8,4 +8,4 @@
 
 版权与许可声明不因品牌重命名而消失。本项目不表示上游作者参与、认可或为此版本背书，也不宣称源自零参考的全部原创。
 
-本版本新增代码与文档采用 MIT 许可，见 [LICENSE](LICENSE)。AI 生成素材单独说明于 [assets/ASSET_NOTES.md](assets/ASSET_NOTES.md)，不对其提供排他性权利保证。
+本版本新增代码与文档采用 MIT 许可，见 [LICENSE](LICENSE)。摄影原图与 AI 编辑素材单独说明于 [assets/ASSET_NOTES.md](assets/ASSET_NOTES.md)，不对其提供排他性权利保证。
